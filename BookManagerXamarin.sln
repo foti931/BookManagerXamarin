@@ -7,7 +7,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookManagerXamarin.Android"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookManagerXamarin.iOS", "BookManagerXamarin\BookManagerXamarin.iOS\BookManagerXamarin.iOS.csproj", "{F031A343-A576-477C-978A-4C79356C84AC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookManagerXamarin", "BookManagerXamarin\BookManagerXamarin\BookManagerXamarin.csproj", "{05213554-6550-460D-84D6-0691E4972357}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BookManagerXamarin", "BookManagerXamarin\BookManagerXamarin\BookManagerXamarin.csproj", "{05213554-6550-460D-84D6-0691E4972357}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NativeBase", "..\Base\NativeBase.csproj", "{601AF23F-C46A-4B15-9938-24692E1F82CE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -73,6 +75,18 @@ Global
 		{05213554-6550-460D-84D6-0691E4972357}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
 		{05213554-6550-460D-84D6-0691E4972357}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
 		{05213554-6550-460D-84D6-0691E4972357}.Release|iPhoneSimulator.Deploy.0 = Release|Any CPU
+		{601AF23F-C46A-4B15-9938-24692E1F82CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{601AF23F-C46A-4B15-9938-24692E1F82CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{601AF23F-C46A-4B15-9938-24692E1F82CE}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{601AF23F-C46A-4B15-9938-24692E1F82CE}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{601AF23F-C46A-4B15-9938-24692E1F82CE}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{601AF23F-C46A-4B15-9938-24692E1F82CE}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{601AF23F-C46A-4B15-9938-24692E1F82CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{601AF23F-C46A-4B15-9938-24692E1F82CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{601AF23F-C46A-4B15-9938-24692E1F82CE}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{601AF23F-C46A-4B15-9938-24692E1F82CE}.Release|iPhone.Build.0 = Release|Any CPU
+		{601AF23F-C46A-4B15-9938-24692E1F82CE}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{601AF23F-C46A-4B15-9938-24692E1F82CE}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

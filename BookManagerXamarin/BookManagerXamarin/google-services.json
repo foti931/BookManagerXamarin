@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "924635266848",
+    "firebase_url": "https://bookmanagement-53f38.firebaseio.com",
+    "project_id": "bookmanagement-53f38",
+    "storage_bucket": "bookmanagement-53f38.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924635266848:android:e6d2f7a7dc52d77498a145",
+        "android_client_info": {
+          "package_name": "net.azurewebsites.tagkuyaapp.bookmanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "924635266848-746ipi499bsg8ahk7jekhtdc3bhkacv6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "net.azurewebsites.tagkuyaapp.bookmanagement",
+            "certificate_hash": "caf2edf032a827a19e6b5bd9a71a13966eb825c2"
+          }
+        },
+        {
+          "client_id": "924635266848-pc519o8sr24eaio95p7lf8latic6r7ah.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJXnbIXmKfdu1dQ9eiJqIPoCh19ChQMGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "924635266848-pc519o8sr24eaio95p7lf8latic6r7ah.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

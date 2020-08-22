@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             xmlns:vm="clr-namespace:BookManagerXamarin.ViewModels"
+             x:Class="BookManagerXamarin.Views.LoginFromPage">
+    <ContentPage.Content>
+        <StackLayout Orientation="Vertical"  VerticalOptions="Center">
+            <Entry Text="{Binding Username, Mode=TwoWay}" Placeholder="Username" Margin="0" />
+            <Entry Text="{Binding Password, Mode=TwoWay}" Placeholder="Password" Margin="0" IsPassword="True" />
+            <Button Text="Login" Command="{Binding LoginCommand}" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -95,6 +95,7 @@
         await Shell.Current.GoToAsync("//LoginPage");
     -->
     <ShellContent Route="LoginPage" Shell.FlyoutBehavior="Disabled" ContentTemplate="{DataTemplate local:LoginPage}" />
+    <ShellContent Route="LoginFormPage" Shell.FlyoutBehavior="Disabled" ContentTemplate="{DataTemplate local:LoginFromPage}"/>
 
     <!-- Optional Templates 
     // These may be provided inline as below or as separate classes.
